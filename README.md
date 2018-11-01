@@ -1,6 +1,8 @@
 # Parser
 recursive descent parser for compiler of generated programming language from a rules.l (lexical analyzer file)
 
+if not using an IDE to run parser: use makefile, lexer.h, rules.l, and parser.cpp to generate lex.yy.c and lex.yy.o
+
 ## ---GRAMMAR RULES FOR PARSER---
 
 ### Grammar Productions:            
