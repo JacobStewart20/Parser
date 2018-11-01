@@ -1,9 +1,9 @@
 # Parser
 recursive descent parser for compiler of generated programming language from a rules.l (lexical analyzer file)
 
-if not using an IDE to run parser: use makefile, lexer.h, rules.l, and parser.cpp to generate lex.yy.c and lex.yy.o. inside of directory, type `make` into terminal to have everything set up and run ./parse.exe to run parser according to grammar rules.
+if not using an IDE to run parser: use makefile, lexer.h, rules.l, and parser.cpp to generate lex.yy.c and lex.yy.o. inside of directory, type `make` into terminal to have everything set up and type `./parse.exe` to run parser according to grammar rules.
 
-.bc files are test files to use. example terminal input: cat program1.bc | ./parse > program1.out 
+.bc files are test files to use. example terminal input: `cat program1.bc | ./parse > program1.out` 
 
 ## ---GRAMMAR RULES FOR PARSER---
 
