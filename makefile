@@ -1,8 +1,4 @@
 ###############################################################################
-# purpose: Assignment 3 example recursive descent parser
-# created: 10-26-2014
-#  author: J. Edward Swan II
-###############################################################################
 LEX		=	flex
 .PRECIOUS 	=	example-parser.cpp example-rules.l lexer.h 
 
