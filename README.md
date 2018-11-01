@@ -1,9 +1,9 @@
 # Parser
 recursive descent parser
 
-# ---GRAMMAR RULES FOR PARSER---
+## ---GRAMMAR RULES FOR PARSER---
 
-# Grammar Productions:             First Token Set:
+### Grammar Productions:             First Token Set:
 P →{ {S} } { { }
 S → A | G | O | C | W              { let, read, print, if, while }
 A → let ID := E ;                  { let }
