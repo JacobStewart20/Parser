@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/04894afb845978b4c93509a07fa1c95ec3db34b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476c7574656e2d467265652d677265656e2e737667
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 # Parser
 recursive descent parser for compiler of generated programming language from a rules.l (lexical analyzer file)
 
